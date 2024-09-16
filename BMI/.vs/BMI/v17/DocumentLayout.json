@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|c:\\users\\admin\\source\\repos\\bmi\\bmi\\mvvm\\views\\bmiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|solutionrelative:bmi\\mvvm\\views\\bmiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|c:\\users\\admin\\source\\repos\\bmi\\bmi\\mvvm\\views\\bmiview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|solutionrelative:bmi\\mvvm\\views\\bmiview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|c:\\users\\admin\\source\\repos\\bmi\\bmi\\mvvm\\models\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|solutionrelative:bmi\\mvvm\\models\\bmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|c:\\users\\admin\\source\\repos\\bmi\\bmi\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11B9227-923F-485F-B621-CC4370EC53F5}|BMI\\BMI.csproj|solutionrelative:bmi\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Models\\BMI.cs",
+              "RelativeDocumentMoniker": "BMI\\MVVM\\Models\\BMI.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Models\\BMI.cs",
+              "RelativeToolTip": "BMI\\MVVM\\Models\\BMI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:25:39.795Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMIView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Views\\BMIView.xaml.cs",
+              "RelativeDocumentMoniker": "BMI\\MVVM\\Views\\BMIView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Views\\BMIView.xaml.cs",
+              "RelativeToolTip": "BMI\\MVVM\\Views\\BMIView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:28:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BMI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MauiProgram.cs",
+              "RelativeToolTip": "BMI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:59:40.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMIView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Views\\BMIView.xaml",
+              "RelativeDocumentMoniker": "BMI\\MVVM\\Views\\BMIView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BMI\\BMI\\MVVM\\Views\\BMIView.xaml",
+              "RelativeToolTip": "BMI\\MVVM\\Views\\BMIView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T06:56:49.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
